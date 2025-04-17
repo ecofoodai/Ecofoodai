@@ -1,0 +1,7 @@
+flask
+pillow
+pytesseract
+torch
+torchvision
+numpy
+trafilatura
